@@ -1,0 +1,44 @@
+div {
+    background: #000000 url("https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif") 
+    no-repeat scroll 0px -15px;
+    cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAOtJREFUWEftlTEOwjAMRX+GLNyAgRtk5v57V26QhRswMICKWhTAqf1NaCTUrPmxX36+nIDOK3Tujw3gfxy4Hk63MU8xpz2AszVbzRwoAKialLh2q7n55ABVkxKvBsDaqemX9j8c8NhpBZCeqAoQczoCGLQ0W4CXNC8AlmIlEKOvaZ8ATLEZgj0j6R8AbCEvgNQrrNlcAu8P4H2CVs65Q+gBqIaQDVWr5mNf1yTUJt/78DIPImsefgpQQsScXA7VHJDq0d9xcfsdgIv2V2j73wDQZyUYqogn/U0d6A6g3cazTz2Bp4F2ZgPo7sAd1jzI9wkfVh4AAAAASUVORK5CYII=) 0 0, default;
+        }
+     
+
+    body {
+        background-color: #000000;
+         }
+
+       h1 {
+        color: #ffffffff;
+        text-align: right;
+        font: italics 200% fantasy;
+          }
+
+       h2 {
+        color: #ffffff;
+        text-align: right;
+        font: italic 150% fantasy;
+          }
+
+       h3 {
+        color: #ffffff;
+        text-align: center;
+        font: italic 125% fantasy;
+          }
+
+       hr {
+           height: 8px;
+           background:#fd5dadd8;
+          }
+
+       p {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: left;
+        font-size:larger;
+        border: 3px groove #aeb6ff;
+         }
+
+         ul{color: #ffffff;}
+    
